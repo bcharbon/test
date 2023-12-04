@@ -1,5 +1,8 @@
 # CLIFFORD
 
+**Warning: ** This is just an attempt to demo github. No code is actually contained here at the moment.
+----
+
 Copyright by Rafal Ablamowicz (rablamowicz@gmail.com) and Bertfried Fauser (bertfried.fauser@googlemail.com)
 
 Version 2017.1 of CLIFFORD for Clifford algebra computations in Maple 17 contains the following packages:
